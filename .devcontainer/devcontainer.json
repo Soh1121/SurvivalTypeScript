@@ -1,0 +1,14 @@
+{
+	"name": "Survival-TypeScript",
+	"dockerComposeFile": ["../docker-compose.yml"],
+	"service": "app",
+	"workspaceFolder": "/home/Survival",
+	"settings": {
+
+	},
+	"extensions": [
+		"coenraads.bracket-pair-colorizer",
+		"mhutchie.git-graph",
+		"ms-ceintl.vscode-language-pack-ja",
+	],
+}
